@@ -1,2 +1,2 @@
-# BOARD PROJECT
+# Attendance Marking Application using Python
  
